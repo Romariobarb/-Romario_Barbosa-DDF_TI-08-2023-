@@ -5,10 +5,10 @@
 ##### -Para a melhoria do atendimento ao cliente é importante identificar padrões e tendencias, medir os resultados das ações, tomar as medidas para melhorar a satisfação e eficiencia e por fim, repetir o processo regularmente para melhorar continuamente.
 ####  CASE-2
 
-##### -Configurar a solução MDM para atender às necessidades da Dadosfera. Isso incluirá a criação de usuários e grupos, o mapeamento de recursos e a configuração de políticas de segurança.
-##### -Implementar a solução de gerenciamento de diretório em nuvem SSO. Depois de configurar a solução, implementa-la na Dadosfera envolverá a distribuição de dispositivos para seus usuários e a configuração de sua solução de gerenciamento de diretório em nuvem para gerenciar esses dispositivos.
-##### -Para ter um implementação e transição eficientes é necessario treinar os usuários sobre o uso da solução de gerenciamento de diretório em nuvem. É importante para que eles saibam como acessar recursos, proteger seus dispositivos e cumprir as políticas de segurança.
-##### -É importante monitorar sua solução de gerenciamento de diretório em nuvem para garantir que ela esteja funcionando conforme o esperado. Isso envolverá a verificação dos logs de auditoria, a execução de testes de penetração e a investigação de quaisquer alertas.
+-Configurar a solução MDM para atender às necessidades da Dadosfera. Isso incluirá a criação de usuários e grupos, o mapeamento de recursos e a configuração de políticas de segurança.
+-Implementar a solução de gerenciamento de diretório em nuvem SSO. Depois de configurar a solução, implementa-la na Dadosfera envolverá a distribuição de dispositivos para seus usuários e a configuração de sua solução de gerenciamento de diretório em nuvem para gerenciar esses dispositivos.
+-Para ter um implementação e transição eficientes é necessario treinar os usuários sobre o uso da solução de gerenciamento de diretório em nuvem. É importante para que eles saibam como acessar recursos, proteger seus dispositivos e cumprir as políticas de segurança.
+-É importante monitorar sua solução de gerenciamento de diretório em nuvem para garantir que ela esteja funcionando conforme o esperado. Isso envolverá a verificação dos logs de auditoria, a execução de testes de penetração e a investigação de quaisquer alertas.
 
 #### CASE-3
 ##### -Usar autenticação multifatorial (MFA). A MFA exige que os usuários forneçam mais de um fator de autenticação, como uma senha, um código de verificação ou uma impressão digital, antes de terem acesso a um recurso. Isso torna mais difícil para os invasores roubarem credenciais e acessar dados confidenciais.
